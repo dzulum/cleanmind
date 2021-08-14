@@ -1,0 +1,2 @@
+# cleanmind
+jekyll theme
